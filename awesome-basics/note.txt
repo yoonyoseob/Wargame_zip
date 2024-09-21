@@ -1,0 +1,1 @@
+For stack check: x/18gx $rbp-0x80
